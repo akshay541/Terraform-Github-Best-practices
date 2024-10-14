@@ -5,6 +5,8 @@
 
 Welcome to the **IaC Best Practices** and **Cloud Migration Guide** repository. This project focuses on using **Terraform** for Infrastructure as Code, adopting solid coding principles, and ensuring smooth migration to Azure using industry standards.
 
+For more detailed information and best practices, please visit our **[Wiki Documentation](https://github.com/akshay541/Terraform-Github-Best-practices/wiki)**.
+
 ---
 
 ## 📑 Table of Contents
