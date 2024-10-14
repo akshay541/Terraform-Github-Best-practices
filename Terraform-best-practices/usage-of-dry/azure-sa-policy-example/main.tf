@@ -6,6 +6,7 @@ resource "azurerm_storage_account" "example" {
   account_replication_type  = "LRS"
 }
 
+# Using child module here for sa account policy management
 module "storage_management_policy" {
   source               = "./modules/storage_management_policy"
   storage_account_id   = "12345678"
